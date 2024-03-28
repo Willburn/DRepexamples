@@ -1,0 +1,20 @@
+Nordic Cardano Community DRep
+
+We follow the CIP 1694 DRep Code of Conduct V2.0. 
+
+As an organisation we have members who will advice us on governance matters related to SPOs, 
+we have members who are able to judge the different protocol parameters both network, economic, technical and governance groups 
+and we will disclose our rationale on the protocol parameter votes.
+
+Resource wise we our main DRep public face named xyz will commmitt 5 hours a month to the public debate, but as an organsation
+we will ask on our members to consult and use time for this on any matters we believe we need time to deliberate.
+
+We can be reached at nadadrep@adamail.com and we hold public townhalls every month for the nordic cardano community.
+
+When it comes to alliances we have discussed joining an overarching cardano governance alliance of DRep, the Nordic Cardano Community 
+recieves funding for its town halls through an intersect grant program, our individual members have recieved various grants in the Cardano community and if any of them are consulted on a specific topic will disclose any conflict of interest. Our policy on voting
+is to consult with experts whenever we through or membership meetings are unsure on how to vote on a specific topic without further 
+deliberation. We plan to cover all governance items that seems relevant to the Nordic Cardano community as part of the wider Cardano community.  We will post a minimun of 2 epochs before a vote our voting rationale as a general rule.
+
+If you have feedback on our following of the Code of Conduct or to improve it you can reach us on our email address listed above.
+
